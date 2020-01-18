@@ -1,3 +1,4 @@
+# -*- coting:utf-8 -*-
 #練習１
 list_lang=[]
 for i in range(1,6):
